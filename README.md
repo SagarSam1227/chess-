@@ -29,3 +29,4 @@ If you are developing a production application, we recommend updating the config
 # chess-
 # chess-
 # chess-
+# chess-
